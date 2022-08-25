@@ -4,7 +4,7 @@ E commerece concept based <b>Flutter</b> app with Bloc Pattern (MVVM) and clean 
 
 
 
-#Libraries
+# Libraries
 Backend: Firebase
 DI: Injectable
 Bloc
