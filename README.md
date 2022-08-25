@@ -22,3 +22,4 @@ You can say app is under development and it includes only basic features for now
 - Category Products
 - Add to Cart
 - Place Order
+- Hero Animations
