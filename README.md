@@ -2,6 +2,7 @@
 
 E commerece concept based <b>Flutter</b> app with Bloc Pattern (MVVM) and clean architecture app with Firebase Firestore as backend.
 
+![Alt s1](/raw/s_01.jpg "Optional title")
 
 
 # Libraries
